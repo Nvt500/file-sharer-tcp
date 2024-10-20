@@ -1,0 +1,14 @@
+[package]
+name = "file-sharer-tcp"
+version = "0.1.0"
+authors = ["Nvt5"]
+license = "MIT"
+description = "Share files with rust tcp."
+readme = "README.md"
+homepage = "https://github.com/Nvt500/file-sharer-tcp"
+repository = "https://github.com/Nvt500/file-sharer-tcp"
+keywords = ["cli", "file-sharer", "tcp"]
+categories = ["command-line-utilities"]
+edition = "2021"
+
+[dependencies]
